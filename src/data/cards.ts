@@ -1,0 +1,132 @@
+export default [
+  {
+    id: 'deals',
+    items: [
+      {
+        id: 'oab',
+        icon: 'gavel',
+        description: 'Preparatório OAB',
+        color: 'secondary',
+        size: '60',
+        detail: '',
+      },
+      {
+        id: 'college',
+        icon: 'school',
+        description: 'Ensino Superior',
+        color: 'secondary',
+        size: '60',
+        detail: '',
+      },
+      {
+        id: 'finance',
+        icon: 'monetization_on',
+        description: 'Certificações Financeira',
+        color: 'secondary',
+        size: '60',
+        detail: '',
+      },
+      {
+        id: 'education',
+        icon: 'menu_book',
+        description: 'Educação Básica',
+        color: 'secondary',
+        size: '60',
+        detail: '',
+      },
+    ],
+  },
+  {
+    id: 'features',
+    items: [
+      {
+        id: 'solution',
+        icon: 'psychology',
+        description: 'Solução 100% Customizada',
+        detail: 'Recursos e layout personalizados para sua instituição.',
+        color: 'secondary',
+        size: '60',
+      },
+      {
+        id: 'avaliation',
+        icon: 'checklist',
+        description: 'Avaliações por disciplinas',
+        detail: 'Calcula o nível de conhecimento do aluno em cada matéria.',
+        color: 'secondary',
+        size: '60',
+      },
+      {
+        id: 'control',
+        icon: 'today',
+        description: 'Controle de estudos personalizado',
+        detail: 'Indicação de estudo baseado no desempenho e tempo disponível',
+        color: 'secondary',
+        size: '60',
+      },
+      {
+        id: 'evolution',
+        icon: 'trending_up',
+        description: 'Evolução rumo a Aprovação',
+        detail:
+          'Com base nas avaliações, as chances de aprovação são calculadas.',
+        color: 'secondary',
+        size: '60',
+      },
+      {
+        id: 'questions',
+        icon: 'quiz',
+        description: 'Questões objetivas e discursivas',
+        detail:
+          'Calibragem das questões de forma automatizada e gabarito comentado.',
+        color: 'secondary',
+        size: '60',
+      },
+      {
+        id: 'materials',
+        icon: 'description',
+        description: 'Material de estudo personalizado',
+        detail:
+          'Ambiente de materiais que suporta PDFs, vídeos, imagens e docs',
+        color: 'secondary',
+        size: '60',
+      },
+    ],
+  },
+  {
+    id: 'suport',
+    items: [
+      {
+        id: 'atendimento',
+        icon: 'chat',
+        description: 'Atendimento Multi-canais',
+        detail: '',
+        color: 'primary',
+        size: '60',
+      },
+      {
+        id: 'suports',
+        icon: 'headset',
+        description: 'Suporte e Treinamento',
+        detail: '',
+        color: 'primary',
+        size: '60',
+      },
+      {
+        id: 'atualization',
+        icon: 'upload',
+        description: 'Atualizações Automáticas',
+        detail: '',
+        color: 'primary',
+        size: '60',
+      },
+      {
+        id: 'personalization',
+        icon: 'settings',
+        description: 'Plataforma personalizada',
+        detail: '',
+        color: 'primary',
+        size: '60',
+      },
+    ],
+  },
+];

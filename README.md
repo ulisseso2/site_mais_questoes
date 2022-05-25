@@ -1,22 +1,11 @@
-# Mais Questões Site (mais-questoes-site)
+# Mais Questões Site
 
 Website for Mais Questões Business
 
-## Install the dependencies
+Esse site foi desenvolvido em TypeScript e VueJS, usando o FrameWork Quasar
+maisquestoes.com.br
 
-```bash
-yarn
-```
+Pra quem não conhece, o Quasar é um framework baseada em Vue.js
+Ele possibilita escrever código uma vez e implantá-lo simultaneamente como um site ou um aplicativo móvel.
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-
-```bash
-yarn start
-```
-
-### Build the app for production
-
-```bash
-yarn build
-```
-# site_mais_questoes
+![Gif do Site](/src/assets/images/site.gif)
